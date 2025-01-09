@@ -1,3 +1,3 @@
 # Pre Entrega 1 Escobar Márquez
-Curso CODERHOUSE REACT JS
-Comisión 63410
+Curso CODERHOUSE JAVASCRIPT
+Comisión 60000
